@@ -1,6 +1,6 @@
 # STM32F4_Dev_Board
 
-This is a STM32f4 development board based on the High Perfomance STM32f405RGT6 32-Bit Arm Cortex M4 Microcontroller from ST. 
+This is a STM32f4 development board designed in Autodesk Eagle. It is Based on the High Perfomance STM32f405RGT6 32-Bit Arm Cortex M4 Microcontroller from ST. 
 
 ## Pinout
 ✔ feature 19 pins broken out from the MCU's Port PB, PA & PC. Refer to the Pcb board for the pinout.
